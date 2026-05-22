@@ -1,4 +1,4 @@
-<h1 align="center"> Oii, eu sou a [Bia Amaral]! 🌸 </h1>
+<h1 align="center"> Oii, eu sou a Bia Amaral! 🌸 </h1>
 <h3 align="center"> Desenvolvedora | Criativa | Movida a código e ideias 🎀🩷 </h3>
 
 <p align="center">
